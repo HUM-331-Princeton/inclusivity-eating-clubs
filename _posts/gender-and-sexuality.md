@@ -2,6 +2,7 @@
 layout: post
 author: Paul-Louis Biondi
 title: Princeton Women's Exclusion from Eating Clubs
+---
 
 ## A Timeline Female Integration into Princeton’s Eating Clubs
 
