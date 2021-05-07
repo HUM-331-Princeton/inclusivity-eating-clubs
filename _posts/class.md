@@ -27,6 +27,7 @@ The same October 8, 1941 article, titled “A Problem Solved?”, details the op
 As detailed in the article, the students created this club as a space for less affluent students to gather, eat meals, and create a social group identity for themselves.
 ![Prospect Cooperative Club](https://64.media.tumblr.com/98c9677e972e7f91d4d261e17bb0a6e4/5234c691ca1fe125-be/s1280x1920/6880abb2fdd985a33d94c3cfb3108853503eb90d.jpg)
 Photo from the 1943 Bric-A-Brac
+
 Unfortunately, Prospect Cooperative Club disbanded in 1959 due to a lack of interest and a dwindling membership. Because prestige was, and continues to be, an important factor of eating clubs and Prospect Club explicitly classed students and the club given its nature, it is then not surprising that this eating club was held among the less prestigious.
 
 Still today, the issue of class remains an important one in eating clubs. Just this past year on December 9, 2020, the Board of Trustees of the Cap and Gown Club unanimously voted to pass a policy that would provide a grant for club membership to any member on financial aid and makes sure that no member on full financial aid would pay out-of-pocket costs for their membership at Cap and Gown. No other club as of yet has implemented this policy, but it is an important step to social spaces, free from a financial burden.
