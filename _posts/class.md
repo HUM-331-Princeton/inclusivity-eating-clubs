@@ -25,8 +25,8 @@ But eating clubs’ influence did not stop in social live and in their clubhouse
 The same October 8, 1941 article, titled “A Problem Solved?”, details the operation of the Prospect Cooperative Club, founded in the spring of 1941 by members of the class of 1943 and whose first year of operation was the 1941-1942 academic year.
 * “Now finally it seems that a definite solution for the problem has been found in the Prospect Club, where members actually pay $50 less than they did to eat in Commons during their first two years. At first it was thought that the plan could never be brought to fruition. Even though all work such as waiting and dishwashing was to be done by the students with the exception of the cooking, it seemed impossible that the problem of finances which has plagued the clubs for so long could be solved on such a simple basis. Yet now after the organization has been functioning for three weeks, steward Robert A. Buntz '43 reports that the club is running about ten per cent under its estimated budget.”
 As detailed in the article, the students created this club as a space for less affluent students to gather, eat meals, and create a social group identity for themselves.
-![Prospect Cooperative Club](https://64.media.tumblr.com/98c9677e972e7f91d4d261e17bb0a6e4/5234c691ca1fe125-be/s1280x1920/6880abb2fdd985a33d94c3cfb3108853503eb90d.jpg)
 
+![Prospect Cooperative Club](https://64.media.tumblr.com/98c9677e972e7f91d4d261e17bb0a6e4/5234c691ca1fe125-be/s1280x1920/6880abb2fdd985a33d94c3cfb3108853503eb90d.jpg)
 Photo from the 1943 Bric-A-Brac
 
 Unfortunately, Prospect Cooperative Club disbanded in 1959 due to a lack of interest and a dwindling membership. Because prestige was, and continues to be, an important factor of eating clubs and Prospect Club explicitly classed students and the club given its nature, it is then not surprising that this eating club was held among the less prestigious.
