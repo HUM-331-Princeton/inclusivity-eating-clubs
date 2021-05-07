@@ -11,6 +11,7 @@ As has been discussed, Princeton’s eating clubs have had a complicated and lon
 Below is a short chronology of key events that frames how women interacted with and were included in eating clubs.
 <iframe src="http://timemapper.okfnlabs.org/louisbiondi/coeds-in-the-eating-clubs?embed=1" frameborder="0" style="border: none;" width="100%" height="780;"></iframe>
 
+
 While it provides a good overview of the main events that affected women and Princeton social life, it is also necessary to provide context as to why eating clubs are so fundamental to Princeton’s being. They are not only an aspect of social life, but they have in the past acted as arbiters of the Princeton undergraduate experience, enacting on women how they could behave and how they were meant to take on space.
 
 ## Is Inclusion Just Membership?
