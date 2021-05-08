@@ -1,0 +1,52 @@
+---
+layout: post
+author: Amna Amin
+excerpt_separator: <!--more-->
+title: An Introduction to Eating Clubs
+permalink: /Introduction/
+---
+
+## What Is an Eating Club? 
+
+[Eating clubs](https://blogs.princeton.edu/mudd/2015/04/eating-clubs-and-the-street/) are a major fixture of life at Princeton University, especially for upper classmen. 
+Eating clubs are a set of buildings located just off campus on Prospect Avenue, which is affectionately referred to as "The Street" by students. 
+These clubs provide a dining option for juniors and seniors, and currently [68%](https://princetoneatingclubs.org/whats-an-eating-club/) of juniors and seniors are members of an eating club. 
+In addition to providing a dining option, the clubs provide a space for students to socialize. Most major parties on campus happen at eating clubs. The clubs themselves are co-ed with around 150-200 members each. 
+There are currently 11 eating clubs operating at Princeton. 
+
+
+![menu](https://i1.wp.com/blogs.princeton.edu/mudd/wp-content/uploads/sites/41/2015/04/Inaugural_dinner_menu_University_Club_Feb_25_1892_AC019_Box13_F11.jpg?resize=646%2C1024&ssl=1)
+
+Menu of an early eating club
+
+
+ <!--more--> 
+
+## How Did They Start? 
+
+In 1855, a fire occured at [Nassau Hall](https://blogs.princeton.edu/mudd/2015/04/eating-clubs-and-the-street/) and left students without on-campus dining hall options. As a result, students turned to off-campus options such as boarding houses. 
+Over time, students decided that they wanted spaces of their own to dine in. Thus, began the first eating club which was established in 1879. Other clubs formed in the following decades, and at its peak there were 21 clubs. 
+
+
+## What Is the Process to Become a Member? 
+
+There are currently two types of [eating clubs](https://princetoneatingclubs.org/whats-an-eating-club/) at Princeton. They are bicker clubs and sign-in clubs. Bicker clubs have a selective process for joining, and that selective process is referred to as bicker or bickering.
+
+During [bicker](https://www.nytimes.com/1978/03/12/archives/new-jersey-weekly-princeton-bickering-over-bicker.html), prospective members are interviewed and then members of the club stay in all-night sessions to decide who to cut and who to make bids or offer of admission to.
+
+On the other hand, sign-in clubs do not have a selective process. Instead, membership is decided on a first come first serve basis. 
+
+
+## Why Are We Interested in Researching Eating Clubs? 
+
+Eating clubs are an important part of Princeton culture. Additionally, eating clubs have historically been accused of being discriminatory. We want to investigate the ideas in more depth in order to examine ideas of inclusivity in relation to eating clubs.
+
+![Tiger Inn](https://i2.wp.com/blogs.princeton.edu/mudd/wp-content/uploads/sites/41/2015/01/Tiger_Inn_1992_Bric.jpg?resize=1024%2C570&ssl=1) 
+A picture of the members of Tiger Inn in 1992, the first year in which women were also admitted. 
+
+## A Look at Each Eating Club 
+
+This map goes into the history of each eating club that is still active today. 
+
+<iframe src="https://www.google.com/maps/d/embed?mid=1q2rErRt5oCCWXt_gw1AO6R4lonRzvphU" width="640" height="480"></iframe> 
+
