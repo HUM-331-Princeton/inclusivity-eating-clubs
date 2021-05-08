@@ -1,10 +1,13 @@
 ---
 layout: post
 author: Paul-Louis Biondi
+excerpt_separator: <!--more-->
 title: Class and Eating Clubs
 ---
 
 Class has long been a major issue at Princeton and a method of exclusion, not just at eating clubs but university wide. And the issue of financial burden has long been a topic of discussion and contention for undergraduates on campus. So, it comes as no surprise that eating clubs have historically been crucial to upholding class and economic divides on campus.
+
+<!--more-->
 
 ## A Short History of Class in Eating Clubs
 
