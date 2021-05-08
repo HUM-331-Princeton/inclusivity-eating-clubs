@@ -1,20 +1,21 @@
 ---
 layout: post
 author: Paul-Louis Biondi
+excerpt_separator: <!--more-->
 title: Princeton Women's Exclusion from Eating Clubs
 ---
 
-## A Timeline of Female Integration into Princeton’s Eating Clubs
+# A Timeline of Female Integration into Princeton’s Eating Clubs
 
 As has been discussed, Princeton’s eating clubs have had a complicated and long journey with inclusion. They act as spaces meant for students at Princeton University, yet are private institutions that are accountable to the university for the larger part. In many ways, they act as amplifiers and symbols of many of the issues that students navigate, face, and discuss during their time as an undergrad. Thus, it may be no surprise that there is no difference when it comes to the inclusion of women.
 
 Below is a short chronology of key events that frames how women interacted with and were included in eating clubs and, in order to contextualize, the University more widely. 
 <iframe src="http://timemapper.okfnlabs.org/louisbiondi/coeds-in-the-eating-clubs?embed=1" frameborder="0" style="border: none;" width="100%" height="780;"></iframe>
-
+<!--more-->
 
 While it provides a good overview of the main events that affected women and Princeton social life, it is also necessary to provide context as to why eating clubs are so fundamental to Princeton’s being. When the University administration was considering co-education, one alumnus responded, saying “you want coeducation—you want to kill the eating clubs—you want to turn Princeton into an institution designed to meet the requirements of the average—please feel free to do so—but do not ask me to support it.” Eating clubs are not only an aspect of social life, but they have in the past acted as arbiters of the Princeton undergraduate experience, enacting on women how they could behave and how they were meant to take on space, and serve as an extension and representation of the University climate as a whole.
 
-## Is Inclusion Just Membership?
+# Is Inclusion Just Membership?
 
 Very basically, the existence of an all-male club that creates life-long connections and connects students to a vast and notable alumni network denies women opportunities not only as undergraduate students but also afterwards. And it is important to note that the decisions to allow women to bicker were made exclusively by men already in the eating clubs, meaning the conversations they were having might not have been exclusively relegated to the well-being of women on campus, but instead more centered upon misogynistic grounds. The very construction of an all-male club allows its nature to be different, to be rooted in patriarchal and misogynistic (similar to the exclusion of any marginality).
 
